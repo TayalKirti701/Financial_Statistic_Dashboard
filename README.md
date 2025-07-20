@@ -9,7 +9,7 @@ This project consists of two interactive and visually appealing dashboards that 
 ---
 
 ## Dashboard 1: Income Sources Analysis
-![Income Sources][Images/Income_sources.png]
+![Income Sources][Images/[Income_sources.png](https://github.com/TayalKirti701/Financial_Statistic_Dashboard/tree/main/Images/Income_Sources.png)]
 ### Features:
 1. **Dynamic Web Chart for Income Sources**:
    - A detailed analysis of all income sources based on the "Income sources" and "Income Breakdowns" columns.
