@@ -46,7 +46,7 @@ This project consists of two interactive and visually appealing dashboards that 
 ---
 
 ## Dashboard 2: Profit Analysis by Country
-![Geographically](https://github.com/TayalKirti701/Financial_Statistic_Dashboard/blob/main/Images/Geographically.png)
+![Geographically](https://github.com/TayalKirti701/Financial_Statistic_Dashboard/blob/main/Images/Geographocally.png)
 ### Features:
 1. **Dynamic Map Chart**:
    - A visually engaging map that dynamically displays profits by country using the "Country" and "Amount" columns.
